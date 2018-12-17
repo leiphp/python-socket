@@ -17,4 +17,4 @@ https://www.100txy.com/Home/Index/alidonate.html
 
 ## 导入socketserver
 
-![实现简单MVC](show.jpg)
+![实现简单MVC](/show.jpg)
